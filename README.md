@@ -79,16 +79,17 @@ Deployment of the trained model as a web app using flask.
 
 
 ## 6. PROBLEMS FACED AND LESSONS LEARNT
-•	Faced issue of overfitting and shuffled the dataset. 
-•	Math dataset and MNIST dataset compatibility issue resolved by converting the math dataset samples to binary images.
-•	Faced many issues related to Trained model deployment using Flask library, fixed the issues by referring multiple online sources and got exposure to flask functionalities.
+- Faced issue of overfitting and shuffled the dataset. 
+
+- Math dataset and MNIST dataset compatibility issue resolved by converting the math dataset samples to binary images.
+- Faced many issues related to Trained model deployment using Flask library, fixed the issues by referring multiple online sources and got exposure to flask  functionalities.
 
 ## 7. REFERENCES
-•	https://www.mdpi.com/1424-8220/20/12/3344/htm
-•	https://core.ac.uk/download/pdf/231148505.pdf
-•	https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/
-•	https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
-•	https://towardsdatascience.com/a-laymans-guide-to-building-your-first-image-classification-model-in-r-using-keras-b285deac6572
+-	https://www.mdpi.com/1424-8220/20/12/3344/htm
+-	https://core.ac.uk/download/pdf/231148505.pdf
+-	https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/
+-	https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+-	https://towardsdatascience.com/a-laymans-guide-to-building-your-first-image-classification-model-in-r-using-keras-b285deac6572
 
 # How to run the App
 In the commnd terminal type
